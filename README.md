@@ -1,2 +1,2 @@
 # mini-sql-db
-Implement essentials of a traditional SQL database
+Implement a mini version of a traditional SQL database for learning purpose
